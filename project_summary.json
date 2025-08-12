@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.MA_2508.07720v1_Toward_Goal_Oriented_Communication_in_Multi_Agent_",
+  "project_type": "agent",
+  "completion_time": "2025-08-12T19:41:14.586978",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.MA_2508.07720v1_Toward_Goal_Oriented_Communication_in_Multi_Agent_"
+}
